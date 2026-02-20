@@ -24,7 +24,8 @@
 
 ---
 
-## 📈 Статистика GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vazzorina&show_icons=true&count_private=true&theme=radical)
+## Контакты
+- **Telegram**: @Vasilina_Antipova
+- **Email**: vasilinaantipova@gmail.com
 
 
