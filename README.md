@@ -24,7 +24,6 @@
 ### Личные проекты
 - [SortPhoto](https://github.com/vazzorina/SortPhoto) - программа для сортировки фотографий по дате съемки
 - [Calculator](https://github.com/vazzorina/Calculator) - калькулятор на С++ для Android с использованием QML графики. Проект разработан в рамках технического тестового задания перед собеседованием.
-- [Weather](https://github.com/vazzorina/Weather) - приложение с прогнозом погоды на Android (QML, C++) с использованием API-ключа (В РАЗРАБОТКЕ)
 
 ---
 
