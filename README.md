@@ -19,7 +19,8 @@
 - [Игра "Помогите! На меня падает всякое"](https://github.com/vazzorina/C-coursework-is-a-game-of-Help-everything-is-falling-on-me-) - первая курсовая работа на С# с использованием технологий WPF - простая десктопная игра
 - [Audioplayer](https://github.com/vazzorina/Audioplayer) — аудиоплеер с хранением плейлиста и истории прослушивания в JSON
 - [Translator](https://github.com/vazzorina/Translator) — фоновая утилита для перевода выделенного текста
-- [Генетический алгоритм](https://github.com/vazzorina/Genetic-Algorithm) - реализация генетического алгоритма на С++ с использованием QML и QT для отображения графиков функций и популяций 
+- [Генетический алгоритм](https://github.com/vazzorina/Genetic-Algorithm) - реализация генетического алгоритма на С++ с использованием QML и QT для отображения графиков функций и популяций
+- [SortPhoto2](https://github.com/vazzorina/SortPhoto2) - новая версия программы [SortPhoto](https://github.com/vazzorina/SortPhoto), разрабаотнная в рамках учебного проекта (QT Widgets, C++) (В РАЗРАБОТКЕ)
 
 ### Личные проекты
 - [SortPhoto](https://github.com/vazzorina/SortPhoto) - программа для сортировки фотографий по дате съемки
